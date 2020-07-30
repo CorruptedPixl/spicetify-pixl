@@ -1212,7 +1212,8 @@ button#player-button-repeat, #player-button-thumbs-up, .view-player button[data-
 
 .SidebarListItemLink:link, .SidebarListItemLink:visited, .RootlistItem__link {
     padding-left: 0;
-    color: var(--modspotify_main_bg);
+    /* color: #00bf76; */
+    color: var(--modspotify_sidebar_text);
 }
 
 .RootlistItemFolder__arrow {
