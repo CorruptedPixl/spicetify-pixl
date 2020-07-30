@@ -18,15 +18,24 @@ and choose a color scheme with `spicetify config color_scheme PastelsGreen`.
 To apply the theme, run `spicetify apply` and you're good to go!
 
 Available color schemes are:  
-- Base
-- dbrand _(black and yellow)_
-- PastelsGreen
-- PastelsRed
-- PastelsOrange
-- PastelsYellow
-- PastelsBlue
-- PastelsPurple
-- PastelsPink
+# Base
+![Base](/Screenshots/pixl-base.jpg)
+# dbrand
+![dbrand](/Screenshots/pixl-dbrand.jpg)
+# PastelsGreen
+![PastelsGreen](/Screenshots/pixl-pastelsgreen.jpg)
+# PastelsRed
+![PastelsRed](/Screenshots/pixl-pastelsred.jpg)
+# PastelsOrange
+![PastelsOrange](/Screenshots/pixl-pastelsorange.jpg)
+# PastelsYellow
+![PastelsYellow](/Screenshots/pixl-pastelsyellow.jpg)
+# PastelsBlue
+![PastelsBlue](/Screenshots/pixl-pastelsblue.jpg)
+# PastelsPurple
+![PastelsPurple](/Screenshots/pixl-pastelspurple.jpg)
+# PastelsPink
+![PastelsPink](/Screenshots/pixl-pastelspink.jpg)
 
 ## Got bored of you theme?
 You can revert any theming with `spicetify restore`
