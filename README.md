@@ -28,5 +28,9 @@ Available color schemes are:
 - PastelsPurple
 - PastelsPink
 
-# Got bored of you theme?
+## Got bored of you theme?
 You can revert any theming with `spicetify restore`
+
+### Notes
+Pixl theme is a customized version of [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/blob/master/Dribbblish) made for ultrawide screens (or people who want a wider sidebar)  
+Colors inspired by dbrand's [pastel skins](https://dbrand.com/shop/special-edition/pastels)
